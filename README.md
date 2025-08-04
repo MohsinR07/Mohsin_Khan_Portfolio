@@ -51,7 +51,7 @@ Feel free to use or adapt this portfolio for your own projects — just give cre
 
 ### 🙋‍♂️ About Me
 
-Hi, I'm **Mohsin Raza Sabit Ali Khan**, an aspiring software developer with a strong background in Java, web development, and full-stack project implementation. I enjoy building scalable systems, creating intuitive UIs, and sharing facts and knowledge on my [YouTube channel – Fact Tak Hindi](https://www.youtube.com/).
+Hi, I'm **Mohsin Raza Sabit Ali Khan**, an aspiring software developer with a strong background in Java, web development, and full-stack project implementation. I enjoy building scalable systems, creating intuitive UIs, and sharing facts and knowledge on my [YouTube channel – Fact Tak Hindi](https://www.youtube.com/@FactTakHindi/).
 
 ---
 
